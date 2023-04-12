@@ -1,5 +1,4 @@
 <meta name="robots" content="noindex">
-<a name="readme-top"></a>
 # Ambiguous Entity Oriented Targeted Document Detection
 ## Dependencies
 
@@ -45,6 +44,4 @@ https://drive.google.com/file/d/1PIYpcczwBMtcR-xpbvW-XEc-9ZRJDcwa/view?usp=share
 * python GADE_local_main_Web_Test.py
 
 ### Contact
- 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
