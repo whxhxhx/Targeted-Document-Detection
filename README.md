@@ -1,3 +1,4 @@
+<meta name="robots" content="noindex">
 <a name="readme-top"></a>
 # Ambiguous Entity Oriented Targeted Document Detection
 ## Dependencies
