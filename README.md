@@ -9,7 +9,7 @@
 We construct four labeled datasets for the targeted document detection task, i.e., `Wiki-100`, `Wiki-200`, `Wiki-300`, and `Web-Test`. The former three datasets are
 constructed from Wikipedia and the last dataset is constructed from Web documents.
 
-* The four labeled datasets `Wiki-100`, `Wiki-200`, `Wiki-300`, and `Web-Test` are placed in the `datasets` folder. Please unzip `datasets.zip` under `./datasets/`.
+* The four labeled datasets `Wiki-100`, `Wiki-200`, `Wiki-300`, and `Web-Test` are placed in the `datasets` folder. Please unzip `Wiki100.zip`, `Wiki200.zip`, `Wiki300.zip`, and `Wiki300.zip` under `datasets/`.
 
 ### Usage
 
