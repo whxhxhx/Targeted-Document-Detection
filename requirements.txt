@@ -1,0 +1,12 @@
+torch==1.7.0
+tqdm==4.62.3
+numpy==1.21.2
+matplotlib==3.5.1
+nltk==3.7
+pytorch-transformers==1.2.0
+transformers==4.8.0
+scikit-learn==1.0.1
+scipy==1.7.3
+regex==2021.11.2
+pytextrank==2.0.0
+rake-nltk==1.0.6
